@@ -1,2 +1,6 @@
 from New Branch
+<<<<<<< HEAD
 from Second Branch
+=======
+from First Branch (2)(3)
+>>>>>>> testBranch
