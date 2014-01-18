@@ -2,3 +2,4 @@ from New Branch
 from Second Branch
 
 new string
+second string
